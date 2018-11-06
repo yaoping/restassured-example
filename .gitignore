@@ -1,0 +1,25 @@
+.gradle
+/build/
+src/querydsl
+!gradle/wrapper/gradle-wrapper.jar
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Integration ###
+.allure/
+
+### Common Files ###
+.DS_Store
